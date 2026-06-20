@@ -20,14 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=Blazer135&style=for-the-badge&color=06b6d4" />
 </p>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  </picture>
-</p>
-
 </div>
 
 <div align="center">
