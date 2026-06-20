@@ -1,0 +1,136 @@
+<!--
+  GitHub Profile README — for the repo named after your username (e.g. github.com/Blazer135/Blazer135)
+  >>> Replace every Blazer135 with your GitHub username before committing. <<<
+  Styled after https://github.com/1985312383
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=1000&lines=Blazer+%2F%2F+Solo+Founder+%26+Full-Stack+Builder;TypeScript+%C3%97+Python+%C3%97+Shipping+end-to-end;Founder+of+Sada+%C2%B7+HOI4+%2F+Millennium+Dawn+modder" />
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:164e63&height=3&section=header&reversal=false" width="100%" />
+</p>
+
+<p>
+  <a href="https://github.com/Blazer135"><img src="https://img.shields.io/badge/GitHub-Blazer135-09090b?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ThatGuyBlazer@gmail.com"><img src="https://img.shields.io/badge/Email-ThatGuyBlazer%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@BlazerTheMelon"><img src="https://img.shields.io/badge/YouTube-%40BlazerTheMelon-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCE4QThxuTWNg1nSN_PlP2tw?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCE4QThxuTWNg1nSN_PlP2tw?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=09090b&label=Subscribers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Blazer135&style=for-the-badge&color=06b6d4" />
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  </picture>
+</p>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Blazer135&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Blazer135&show_icons=true&theme=default&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Blazer135&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazer135&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazer135&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazer135&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
+</div>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>What I'm working on now</h3>
+      <p>
+        Building <b>Sada</b> — my startup — solo, end-to-end (TypeScript + Python).
+      </p>
+      <p>
+        Also deep in <b>Hearts of Iron IV / Millennium Dawn</b> modding —
+        contributing to the modern-day overhaul mod and building modder
+        tooling like the <b>Focus Tree Creation Tool</b>.
+      </p>
+      <p><sub>صانع برمجيات من الأردن · أبني وأشحن من الفكرة إلى المنتج</sub></p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>Keywords</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-0891b2?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/d3.js-f9a03c?style=flat-square&logo=d3dotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tauri-1e293b?style=flat-square&logo=tauri&logoColor=white" />
+        <img src="https://img.shields.io/badge/Game%20Modding-0f766e?style=flat-square&logoColor=white" />
+      </p>
+      <h3>Tech stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,tauri,vite,tailwind,git,github" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td><a href="https://sadaevents.com">Sada</a></td>
+    <td>Solo-founded startup — full-stack TypeScript &amp; Python</td>
+    <td>Founder</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MillenniumDawn/Millennium-Dawn">Millennium Dawn</a></td>
+    <td>Hearts of Iron IV modern-day grand-strategy overhaul mod</td>
+    <td>Lead</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MillenniumDawn/focus-tree-creation-tool">focus-tree-creation-tool</a></td>
+    <td>Focus tree creation tool for Hearts of Iron IV</td>
+    <td>Lead</td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![Millennium Dawn](https://svg.bookmark.style/api?url=https://github.com/MillenniumDawn/Millennium-Dawn&style=horizontal)](https://github.com/MillenniumDawn/Millennium-Dawn)
+[![Focus Tree Creation Tool](https://svg.bookmark.style/api?url=https://github.com/MillenniumDawn/focus-tree-creation-tool&style=horizontal)](https://github.com/MillenniumDawn/focus-tree-creation-tool)
+
+</div>
+
+## 📺 Latest Video
+
+<!-- The list below is auto-generated by the "Latest YouTube Videos" GitHub Action. Don't edit between the markers. -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+<div align="center">
+  <a href="https://www.youtube.com/@BlazerTheMelon">▶ See all videos on YouTube</a>
+</div>
+
+## Activity Dashboard
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Blazer135&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Blazer135&theme=default&hide_border=true" />
+    <img height="170" src="https://streak-stats.demolab.com?user=Blazer135&theme=default&hide_border=true" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Blazer135&theme=tokyo-night&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Blazer135&theme=github-light&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blazer135&theme=github-light&hide_border=true&area=true" />
+  </picture>
+</div>
