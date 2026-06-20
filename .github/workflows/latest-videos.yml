@@ -1,7 +1,7 @@
-# Pulls the newest YouTube upload into the README's "Latest Video" section.
+# Renders the newest YouTube upload as a thumbnail card in the README's "Latest Video" section.
 # Rewrites whatever sits between these markers in README.md:
-#   <!-- YOUTUBE-VIDEOS-LIST:START -->
-#   <!-- YOUTUBE-VIDEOS-LIST:END -->
+#   <!-- YOUTUBE-CARDS:START -->
+#   <!-- YOUTUBE-CARDS:END -->
 name: Latest YouTube Videos
 
 on:
@@ -23,12 +23,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull latest video into README
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Render latest video card
+        uses: DenverCoder1/readme-youtube-cards@v1
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE4QThxuTWNg1nSN_PlP2tw"
-          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
-          max_post_count: 1                       # bump to 3-5 to show a list instead of just the newest
-          template: "▶️ [$title]($url) &nbsp;<sub>$date</sub><br>"
-          date_format: "yyyy-mm-dd"
-          commit_message: "chore: update latest YouTube video"
+          channel_id: UCE4QThxuTWNg1nSN_PlP2tw
+          comment_tag_name: "YOUTUBE-CARDS"
+          max_videos: 1                 # bump to show more recent videos
+          card_width: 640               # wide, banner-style thumbnail card
+          max_title_lines: 2
+          show_duration: "true"
+          background_color: "#0f172a"
+          title_color: "#ffffff"
+          stats_color: "#94a3b8"
+          commit_message: "chore: update latest YouTube video card"
