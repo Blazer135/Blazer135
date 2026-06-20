@@ -31,7 +31,6 @@ jobs:
           max_videos: 1                 # bump to show more recent videos
           card_width: 640               # wide, banner-style thumbnail card
           max_title_lines: 2
-          show_duration: "true"
           background_color: "#0f172a"
           title_color: "#ffffff"
           stats_color: "#94a3b8"
