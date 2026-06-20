@@ -36,11 +36,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Blazer135&show_icons=true&theme=default&hide_border=true" />
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Blazer135&show_icons=true&theme=default&hide_border=true" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazer135&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazer135&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazer135&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  </picture>
 </div>
 
 <table>
