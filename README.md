@@ -100,7 +100,7 @@
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How to be better with Tanks in Battlefield 6](https://ytcards.demolab.com/?id=C_QdUFVEAMw&title=How+to+be+better+with+Tanks+in+Battlefield+6&lang=en&timestamp=1760628609&background_color=%230f172a&title_color=%23ffffff&stats_color=%2394a3b8&max_title_lines=2&width=640&border_radius=5 "How to be better with Tanks in Battlefield 6")](https://www.youtube.com/watch?v=C_QdUFVEAMw)
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@BlazerTheMelon">▶ See all videos on YouTube</a>
